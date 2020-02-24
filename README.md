@@ -1,2 +1,3 @@
 # gi-cli
-Name change pending!
+
+A small CLI program to connect git and issue tracking in a single binary.  
